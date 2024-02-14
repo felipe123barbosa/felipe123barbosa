@@ -1,5 +1,5 @@
 Olá!!<br/>
-Meu nome é Felipe, sou de Cianorte (PR) e estou procuração emprego na area de Programação.<br/>
+Meu nome é Felipe, sou de Cianorte (PR) e estou procurando emprego na area de Programação.<br/>
 Sou programador front-end júnior com habilidades em; 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO"/><br/>
