@@ -9,4 +9,3 @@ Redes Sociais
 - <a href="https://www.instagram.com/felipe_barbosa29/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM-LINK"/></a>
 - <a href="https://www.facebook.com/profile.php?id=100003287902535&locale=pt_BR"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FACEBOOK-LINK"/></a>
 - <a href="https://www.linkedin.com/in/felipe-barbosa-a369992b2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN-LINK"/></a>
-
